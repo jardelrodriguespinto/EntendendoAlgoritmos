@@ -1,0 +1,19 @@
+package br.com.entendoAlgoritmos;
+
+public class BuscaBinaria {
+	public static void main(String[] args) {
+		
+		int[] arr = new int[] {1, 2, 30, 5, 8, 48, 45 };
+		
+		System.out.println(buscaBinaria(arr, 5));
+		
+		
+	}
+	
+	private static int buscaBinaria(int[] elements, int target) {
+		
+		
+		
+		return 0;
+	}
+}
